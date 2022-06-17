@@ -1,3 +1,5 @@
+![](https://img.shields.io/badge/Microverse-blueviolet)
+
 ## Testing To Do list: part 2
 
 A simple To do List. It simply lists the things that you need to do and allows you to mark them as complete. A tool to help you organize your day!
@@ -9,8 +11,7 @@ In this part of the testing project, you will test functions responsible for the
 ## Project requirements
 
 **Use jest framework for testing.
-\*\***a function for editing the task description. 
-\***\*a function for updating an item's 'completed' status.
+\*\***a function for editing the task description. \***\*a function for updating an item's 'completed' status.
 \*\***the "Clear all completed" function.
 \*\*\*\*Make sure you group your tests using the describe() method.
 
@@ -54,13 +55,21 @@ run:
 npm run build
 ```
 
-## Authors
+## Author 1
 
 👤 **Vincent Abuya Obunga**
 
 - GitHub: [@githubhandle](https://github.com/vabuyia)
 - Twitter: [@twitterhandle](https://twitter.com/vabuya)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+
+## Author 2
+
+👤 **Andrea Alvarez**
+
+- GitHub: [@Alondra87](https://github.com/Alondra87)
+- Twitter: @AndreaA07211436
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/andrea-a-384903224/)
 
 ## 🤝 Contributing
 
