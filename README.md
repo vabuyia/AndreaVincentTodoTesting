@@ -1,10 +1,18 @@
-## To Do list
+## Testing To Do list: part 2
 
 A simple To do List. It simply lists the things that you need to do and allows you to mark them as complete. A tool to help you organize your day!
 
 ## Description
 
-In this project, you will build a simple HTML list of To Do tasks. This simple web page will be built using webpack and served by a webpack dev server.
+In this part of the testing project, you will test functions responsible for the status and content updates
+
+## Project requirements
+
+**Use jest framework for testing.
+\*\***a function for editing the task description. 
+\***\*a function for updating an item's 'completed' status.
+\*\***the "Clear all completed" function.
+\*\*\*\*Make sure you group your tests using the describe() method.
 
 ## Built With
 
