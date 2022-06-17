@@ -1,0 +1,22 @@
+{
+  "name": "andreavincenttodotesting",
+  "version": "1.0.0",
+  "description": "A simple To do List. It simply lists the things that you need to do and allows you to mark them as complete. A tool to help you organize your day!",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vabuyia/AndreaVincentTodoTesting.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vabuyia/AndreaVincentTodoTesting/issues"
+  },
+  "homepage": "https://github.com/vabuyia/AndreaVincentTodoTesting#readme",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
